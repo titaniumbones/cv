@@ -68,7 +68,7 @@
 - “Encounters with Sikkim” (2016) student trip to Sikkim, India. History, University of Toronto
 - “Religion and Science” (2015-2017). Department for the Study of Religion, University of Toronto
 - “Culture and Technology I & 2” (2013-16). Faculty of Information, University of Toronto
-- “<<anchor>>Learning Without Borders: Digital Technology and Society” (2012-17). New College, University of Toronto.
+- “Learning Without Borders: Digital Technology and Society” (2012-17). New College, University of Toronto.
 - “Hacking History” (2010-2018) and “Digital History” (2012-19). University of Toronto.
 - “Science, Technology and Modernity”, later "Becoming Modern" ( 2003-2007, 2019). University of Toronto.
 - “Europe in the Nineteenth Century” (2001-2006). University of Toronto.
@@ -80,7 +80,7 @@
 - “Computers and Information from Babbage to the Present” (Fall 1998). Science and Technology Studies, Cornell University.
 
 * Presentations and Workshops
-- "Code without the Internet: Teaching Web Dev in the remote Himalaya", /Teachng Tech Together/, Toronto, Dec. 2018
+- "Code Without the Internet: Teaching Web Dev in the Remote Himalaya", /Teachng Tech Together/, Toronto, Dec. 2018
 - “Teaching Digital Humanities with Git and Github”, /Teaching Tech Together/, Toronto, Feb. 2018
 - “Archival Advocacy and Awareness Amid Social/Political Upheaval” (Panel), /Archives 2017/, Portland OR July 2017
 - “Challenges for Grassroots Archiving of Environmental Data”, /Web Archiving and Digital Libraries 2017, /Toronto June 2017
@@ -108,7 +108,7 @@
 -  Wissenschaftsgeschichte/Scholarly Governing Board of the Max Planck Institute for History of Science, Berlin, Oct. 2000)
 - “Bikes Not Bombs: The Politics of Trashed Bicycles” (Society for the Social Study of Science Annual Meeting , Vienna, Sept. 2000)
 - “Nation, Body and Soul: Remaking the Maimed Soldier in the First World War” (Society for the Social Study of Science Annual Meeting , Vienna, Sept. 2000)
--_“Body, Soul and the Industrial Organization of the Maimed” (Colloquium Department II, Max Planck Institute for the History of Science, June 2000)
+- “Body, Soul and the Industrial Organization of the Maimed” (Colloquium Department II, Max Planck Institute for the History of Science, June 2000)
 
 * Safety Certifications
 - Wilderness First Responder
